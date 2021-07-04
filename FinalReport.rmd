@@ -46,7 +46,8 @@ basicC + geom_bar(stat="identity",position="dodge")
 basicCC <- ggplot(dd2,aes(x=infected,y=prcnt*100,fill=treatment)) 
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
-
+  
+The two graphs are comparing the amount of infected with aids, and also shows that if you do take drug you are more likely to contract aids. As if you take he drug there seems to be a three to two ratio, or higher chance of you getting aids while taking the drug then without it, as you are less likely to contract aids if not on the drug.As the graph shows you are one and a half times more likely to contract aids if you are on the drug.
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
