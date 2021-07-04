@@ -75,3 +75,5 @@ We can reject the null hypothesis simply because the ratio is one.
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We are able to see from the numbers and charts that the contraction of aids is higher if one is on the drug, and that the ratio is almost three to two when compating those who took the drug and those who did not take the drug. This allows us to see that the drug is innecfective at protecting people from contracing aids scince from the information we can gather that , those who take the drug actually have a higher chance of contracting aids.
